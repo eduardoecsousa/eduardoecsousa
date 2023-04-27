@@ -1,8 +1,6 @@
-### Ooi! 👋
+Oi, eu sou # Eduardo Sousa, sou de Botucatu - SP, # Desevolverdor FullStack
 
-Sou desenvolvedor Web FrontEnd.
-
-email: dudus.sousa4002@gmail.com ,
+email: dudus.sousa4002@gmail.com , 
 numero: (14)99864-3802,
 linkedin : https://www.linkedin.com/in/eduardoecsousa/.
 
