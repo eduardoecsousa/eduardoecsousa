@@ -2,7 +2,7 @@ Olá, me chamo **Eduardo Sousa**, sou de Botucatu-SP, **Desevolverdor FullStack*
 
 email: dudus.sousa4002@gmail.com , 
 numero: (14)99864-3802,
-![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Linkedin-icon.png][https://www.linkedin.com/in/eduardoecsousa/]
+![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Linkedin-icon.png)[https://www.linkedin.com/in/eduardoecsousa/]
 
 
 
