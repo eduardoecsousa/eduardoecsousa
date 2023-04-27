@@ -2,7 +2,7 @@ Olá, me chamo **Eduardo Sousa**, sou de Botucatu-SP, **Desevolverdor FullStack*
 
 email: dudus.sousa4002@gmail.com , 
 numero: (14)99864-3802,
-## LinkedIn [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
 
 
 
