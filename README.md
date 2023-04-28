@@ -17,9 +17,4 @@ Olá, me chamo **Eduardo Sousa**, sou de Botucatu-SP, **Desevolverdor FullStack*
 ![Testing](https://camo.githubusercontent.com/8ea37d3c1db2b1842c753c074f498e1a2e55da8e27082f1b089a58f1d9a55972/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54657374696e673a2d4536453645363f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d463744463145) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)<br>
 ![other](https://camo.githubusercontent.com/982cefc4028e6fa43e276273b01519f2f301dd792b564e8d9edb7cc0619c5f62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f746865723a2d4536453645363f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d463744463145) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoecsousa&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoecsousa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoecsousa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoecsousa&show_icons=true&theme=tokyonight)
