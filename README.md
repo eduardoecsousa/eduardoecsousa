@@ -1,6 +1,6 @@
 Olá, me chamo **Eduardo Sousa**, sou de Botucatu-SP, **Desevolverdor FullStack**
 
-**email**🔗 dudus.sousa4002@gmail.com , </br> <br>
+**Email**🔗 dudus.sousa4002@gmail.com , </br> <br>
 **LinkedIn**🔗 [![linkedId](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Linkedin-icon.png)][1]
 
 [1]: https://www.linkedin.com/in/eduardoecsousa/
