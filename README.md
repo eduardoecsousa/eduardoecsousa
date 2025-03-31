@@ -1,9 +1,12 @@
-Olá, me chamo **Eduardo Sousa**, sou de Botucatu-SP, **Desevolverdor FullStack**
+# Olá, me chamo Eduardo Sousa.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER e, ao longo da minha trajetória, adquiri diversas experiências por meio de projetos pessoais e acadêmicos. Durante o curso da Trybe, trabalhei intensivamente com tecnologias como ReactJS, TypeScript, Docker, Express, Java e Spring Boot. Esses desafios foram essenciais para o meu crescimento, permitindo-me aprimorar não apenas minhas hard skills, mas também minhas soft skills, como comunicação e resolução de conflitos.
+# Conecte-se comigo
+[![EMAIL](https://img.shields.io/badge/EMAIL-030303?style=for-the-badge)][2]
 
-**Email**🔗 dudus.sousa4002@gmail.com , </br> <br>
-**LinkedIn**🔗 [![linkedId](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Linkedin-icon.png)][1]
+[![linkedId](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)][1]
 
 [1]: https://www.linkedin.com/in/eduardoecsousa/
+[2]: dudus.sousa4002@gmail.com
 
 <hr>
 
